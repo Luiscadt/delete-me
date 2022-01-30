@@ -4,9 +4,9 @@ const User = () => {
     const params = useParams()
     console.log(params)
     return (
-        <div>
+          <div>
               {params.id}  
-        </div>
+          </div>
     )
 }
 
