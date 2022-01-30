@@ -5,7 +5,7 @@ const User = () => {
     console.log(params)
     return (
         <div>
-            {params.id} 
+            {params.id}  
         </div>
     )
 }
